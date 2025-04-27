@@ -1,4 +1,4 @@
-![thumbnail](./img/thumbnail-numerosecreto.png
+![thumbnail](./img/Thumbnail-numerosecreto.png)
 
 # Jogo do Número secreto
 
@@ -22,4 +22,4 @@ As técnicas e tecnologias utilizadas pra isso são:
 - `Lógica de Repetição:` Permite criar uma experiência contínua para o usuário, onde ele pode tentar adivinhar quantas vezes for necessário até acertar, sem precisar reiniciar o jogo a cada erro.
 ## 📁 Acesso ao projeto
 
-Você pode [ acessar O Jogo do Número Secreto através deste link]((https://numero-secreto-blond-three.vercel.app/)) 
+Você pode [ acessar O Jogo do Número Secreto através deste link](https://numero-secreto-blond-three.vercel.app/)
