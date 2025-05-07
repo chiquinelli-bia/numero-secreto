@@ -1,4 +1,4 @@
-![thumbnail](./img/Thumbnail-numerosecreto.png)
+![thumbnail](./img/numerosecreto.png)
 
 # Jogo do Número secreto
 
